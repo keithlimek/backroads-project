@@ -254,6 +254,7 @@ Navbar
   /* hide toggle */
   .navbar {
     padding: 1rem 2rem;
+    /* git test */
   }
   .nav-toggle {
     display: none;
